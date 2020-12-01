@@ -1,1 +1,4 @@
 # Worm-Isolation-System
+In today’s world number of bad people trying to access your data has increased drastically and security has become a concerning issue and has gained so much importance in the previous decade. Our project deals with those worms sent by the hackers to gain access over your computer and sometimes taking whole network down by the spread of such worms. One major example is of the ransomware that spreads in UK which created a hassle among the hospitals as it demands money to be transferred in bitcoins to release the database saved in those computers which strangled the whole community.
+And to prevent such things from happening we have tried our hands in creating a small program prototype that shows how we can do it at a small scale.
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
